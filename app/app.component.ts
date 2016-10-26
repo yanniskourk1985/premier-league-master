@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 @Component({
   selector: 'my-app',
-  template: '<h1>Premier League Master</h1>'
+  template: '<premier-form></premier-form>'
 })
 export class AppComponent { }
